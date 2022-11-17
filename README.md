@@ -9,7 +9,7 @@ Tools yang dipakai
 6. Chromedriver 107
 7. JDK 18
 
-Untuk menjalankan semua fitur dapat run melalui webautomation.feature
+Untuk menjalankan semua fitur dapat run melalui webautomation.feature.
 Untuk menjalankan case satu-satu, bisa melalui file TestRunner dengan mengganti "@case" nya 
 
 Dan mohon maaf untuk API automation tidak terjawab, dikarenakan keterbatasan waktu untuk belajar + kondisi kerja sudah mulai WFO
