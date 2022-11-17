@@ -7,6 +7,7 @@ Tools yang dipakai
 4. JUnit 4.13.2
 5. Selenium Java 4.5.3
 6. Chromedriver 107
+7. JDK 18
 
 Untuk menjalankan semua fitur dapat run melalui webautomation.feature
 Untuk menjalankan case satu-satu, bisa melalui file TestRunner dengan mengganti "@case" nya 
