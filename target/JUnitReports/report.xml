@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="19.061">
+    <testcase classname="web automation" name="select menu" time="18.956">
+        <system-out><![CDATA[Given User go to https://demoqa.com/select-menu.............................passed
+When User in select menu page...............................................passed
+And User choose select value Another root option............................passed
+And User choose select one Other............................................passed
+And User choose old style select menu Aqua..................................passed
+And User choose multi select drop down all color............................passed
+Then User success input all select menu.....................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
